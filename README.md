@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://maksim822pr.github.io/my-awesome-project/)
+- [Публичная страница на GitHub Pages](https://maksimsuperstarr.github.io/my-awesome-project/src/index.html)
